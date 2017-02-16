@@ -1,0 +1,8 @@
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aImage2Odin_Maker\aImage2Odin_Maker\bin\Debug\aImage2Odin.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aImage2Odin_Maker\aImage2Odin_Maker\bin\Debug\aImage2Odin.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aImage2Odin_Maker\aImage2Odin_Maker\obj\Debug\aImage2Odin.csprojResolveAssemblyReference.cache
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aImage2Odin_Maker\aImage2Odin_Maker\obj\Debug\aImage2Odin.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aImage2Odin_Maker\aImage2Odin_Maker\obj\Debug\aImage2Odin.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aImage2Odin\aImage2Odin\obj\Debug\aImage2Odin.csprojResolveAssemblyReference.cache
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aImage2Odin\aImage2Odin\obj\Debug\aImage2Odin.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aImage2Odin\aImage2Odin\bin\Debug\aImage2Odin.exe
